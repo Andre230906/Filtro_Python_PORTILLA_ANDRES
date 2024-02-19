@@ -6,42 +6,7 @@
             "apellido": "ortega",
             "ciudad": "bucaramanga",
             "Direccion": "florida",
-            "Acudiente": "esperanza",
-            "N_celular": "3204559894",
-            "N_fijo": "7528542",
-            "Estado": "Aprobado",
-            "nota": [
-                "",
-                86.5
-            ],
-            "Ruta General": "NetCore",
-            "Ruta Especifica": "Continua",
-            "Salon": "Sputnik",
-            "Grupo": "P3",
-            "Modulo": [
-                "Fundamentos de Programacion",
-                "Backend",
-                "Programacion Web (HTML, CSS, B)"
-            ],
-            "profesor": "Pedro"
-        },
-        {
-            "ID": 7,
-            "nombres": "sebas",
-            "apellido": "julian",
-            "ciudad": "sjaksja",
-            "Direccion": "sakjskjakjs",
-            "Acudiente": "sajksjajks",
-            "N_celular": "585254",
-            "N_fijo": "852852",
-            "Estado": "Aprobado",
-            "Nota": "1",
-            "Ruta General": "a",
-            "Ruta Especifica": "Contina",
-            "Salon": "Salon-2",
-            "Grupo": "Continua",
-            "Modulo": "P3",
-            "profesor": "Continua"
+
         }
     ]
 }
